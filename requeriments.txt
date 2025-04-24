@@ -1,0 +1,2 @@
+mysqlclient=8.0.34
+SQLAlchemy==2.0.40
